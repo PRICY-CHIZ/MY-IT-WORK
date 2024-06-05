@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+table {
+font-family: Calibri, sans-serif
+border-collapse:collapse;
+width: 100%
+}
+th,td {
+border:1px;    
+text-align:center;
+padding:8px;
+}
+th {
+background-color:plum;
+}
+tr {
+background-color:aqua;
+width:50px;
+height:60px;
+}
+a {
+color:blue;
+text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<h2>Richfield Student Representative Council(SRC)2024</h2>
+<h4>Please contact the Richfield-SRC on the attachment found below.Here you will find their Contact Details</h4>
+<table>
+<tr>
+<th>Portfolio</th>
+<th>Full name</th>
+<th>Email</th>
+<th>Cell Number</th>
+</tr>
+<tr>
+<td>President</td>
+<td>Mokoti Katlego</td>
+<td><a href="mailto:src.president@my.richfield.ac.za">src.president@my.richfield.ac.za</a></td>
+<td>081 002 0055</td>
+</tr>
+<tr>
+<td>Vice President</td>
+<td>Tinyiko Baloyi</td>
+<td><a href="mailto:src.vp@my.richfield.ac.za">src.vp@my.richfield.ac.za</a></td>
+<td>081 002 3355</td>
+</tr>
+<tr>
+<td>Secretary General</td>
+<td>Ntombi Khumalo</td>
+<td><a href="mailto:src.sg@my.richfield.ac.za">src.sg@my.richfield.ac.za</a></td>
+<td>081 002 5055</td>
+</tr>
+<tr>
+<td>Treasurer</td>
+<td>Amogelang Chaane</td>
+<td><a href="mailto:src.treasure@my.richfield.ac.za">src.treasure@my.richfield.ac.za</a></td>
+<td>081 002 1055</td>
+</tr>
+<tr>
+<td>Study Finance</td>
+<td>Lebohang Hope Nare</td>
+<td><a href="mailto:src.sf@my.richfield.ac.za">src.sf@my.richfield.ac.za</a></td>
+<td>081 002 0755</td>
+</tr>
+<tr>
+<td>Support Officer</td>
+<td>John Carpenter</td>
+<td><a href="mailto:src.support@my.richfield.ac.za">src.support@my.richfield.ac.za</a></td>
+<td>081 002 0455</td>
+</tr>
+<tr>
+<td>Sports&Recreation</td>
+<td>Letlhogonolo Percy Komane</td>
+<td><a href="mailto:src.sports@my.richfield.ac.za">src.sports@my.richfield.ac.za</a></td>
+<td>081 002 0155</td>
+</tr>
+<tr>
+<td>Health Officer</td>
+<td>Mpho Molefe</td>
+<td><a href="mailto:src.health@my.richfield.ac.za">src.health@my.richfield.ac.za</a></td>
+<td>081 002 6655</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+
+
+
+  
