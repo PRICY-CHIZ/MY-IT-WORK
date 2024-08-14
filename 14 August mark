@@ -1,0 +1,21 @@
+<!Doctype html>
+<html> 
+<head> 
+<style> 
+</style> 
+</head> 
+<body> 
+<h1>This is a basic html page by Pricelyn to test out my javascript</h1>
+<script>
+var mark=prompt("Enter your mark") 
+if (mark >=75 && mark <=100){
+alert("Distinction");}
+else if(mark >=50 && mark <=74){
+alert("Pass");}
+else if (mark >=48 && mark <=49){
+alert("Condoned");}
+else if (mark >=40 && mark <=47){
+alert("Supplementary");}
+else if (mark >=0 && mark <=39){
+alert("Fail");}
+</script>
