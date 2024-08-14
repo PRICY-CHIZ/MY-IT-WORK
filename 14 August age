@@ -1,0 +1,19 @@
+<!Doctype html>
+<html> 
+<head> 
+<style> 
+</style> 
+</head> 
+<body> 
+<h1>This is a basic html page by Pricelyn to test out my javascript</h1>
+<script>
+var age=prompt("Enter your age") 
+if (age >=0 && age <=12){
+alert("You are a child");}
+if (age >=13 && age <=17){
+alert("You are a child");}
+if (age >=18 && age <=59){
+alert("You are a child");}
+if (age >=60 && age <=100){
+alert("You are a child");}
+</script>
